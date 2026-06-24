@@ -45,6 +45,7 @@ A full-stack withdrawal management system built with Spring Boot and Angular.
 - Global exception handling with clean JSON error responses
 - DTO layer to control data exposure
 - Input validation with meaningful error messages
+- UI validation preventing zero or negative withdrawal amounts
 
 ## AI Usage Disclosure
 - AI was primarily used to assist with planning the project's architecture and defining the overall structure of the application. Rather than providing direct solutions, it served as a mentor and learning guide, helping to identify potential approaches and encouraging critical thinking throughout the development process.
